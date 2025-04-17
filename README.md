@@ -8,3 +8,5 @@ I am best known for:
 - eeeerhm, that's it pretty much. Meh. 😒
 
 Currently I am learning *C* programming language and developing some strange shit with it.
+
+Check out my technical artist studio [EvorsioDev](https://evorsiodev.github.io/)
